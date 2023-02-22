@@ -105,7 +105,7 @@ tensorboard --logdir ~/saved/<project_name>
 
 # specify a port 8080
 tensorboard --logdir ~/saved/<project_name> --port 8080
-```
+<!-- ```
 ![tensorboard](examples/images/tensorboard.jpeg)
 
 <a name = "citation" ></a>
@@ -120,7 +120,7 @@ tensorboard --logdir ~/saved/<project_name> --port 8080
     url = {https://github.com/khanld/ASR-Wa2vec-Finetune},
     year = {2022}
 }
-```
+``` -->
 <a name = "vietnamese" ></a>
 ### Vietnamese
 Please take a look [here](examples/vietnamese-tutorial) for Vietnamese people who want to train on public datasets like  [VIOS](https://huggingface.co/datasets/vivos), [COMMON VOICE](https://huggingface.co/datasets/mozilla-foundation/common_voice_8_0), [FOSD](https://data.mendeley.com/datasets/k9sxg2twv4/4), and [VLSP](https://vlsp.org.vn/vlsp2020/eval/asr).
